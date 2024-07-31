@@ -1,0 +1,14 @@
+In statistics, nominal and ordinal data are two types of categorical data:
+
+Nominal Data:
+
+Definition: Nominal data are categories with no specific order. They're just names or labels that help to differentiate between different items.
+Example: Colors (red, blue, green), types of fruit (apple, banana, cherry), or gender (male, female).
+Ordinal Data:
+
+Definition: Ordinal data are categories that have a meaningful order or ranking, but the intervals between the ranks are not necessarily equal.
+Example: Customer satisfaction levels (satisfied, neutral, dissatisfied), education levels (high school, bachelor's, master's), or rankings in a competition (1st, 2nd, 3rd).
+In short:
+
+Nominal = Categories with no order.
+Ordinal = Categories with a specific order.
